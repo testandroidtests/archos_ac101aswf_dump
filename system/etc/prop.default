@@ -1,0 +1,15 @@
+#
+# ADDITIONAL_DEFAULT_PROPERTIES
+#
+ro.secure=1
+security.perf_harden=1
+ro.adb.secure=1
+ro.allow.mock.location=0
+ro.debuggable=0
+#
+# BOOTIMAGE_BUILD_PROPERTIES
+#
+ro.bootimage.build.date=2018年 10月 13日 星期六 14:39:29 CST
+ro.bootimage.build.date.utc=1539412769
+ro.bootimage.build.fingerprint=archos/RKAC101ASWF_ARCHOS/ac101aswf:8.1.0/OPM6.171019.030.E1/20180824:user/release-keys
+persist.sys.usb.config=none
